@@ -1,0 +1,4 @@
+name: AnimalTower
+version: 1.1
+main: com.joey.animalTower.Main
+depend: [CommandAPI]
